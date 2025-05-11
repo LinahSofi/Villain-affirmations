@@ -3,6 +3,13 @@
 A playful and stylish multi-page website designed for aspiring villains who need a daily dose of self-empowerment.  
 Inspired by my 4-year-old’s love of all things evil and cute 😈✨
 
+## User Stories
+
+- As a user, I want to land on a homepage that feels fun and dramatic so I’m hooked immediately.
+- As a user, I want to browse a list of villain affirmations so I can laugh or feel empowered.
+- As a user, I want to learn about the site’s origin and purpose so I understand its vibe.
+- As a user, I want to be able to contact the creator through a form in case I want to suggest new affirmations or leave feedback.
+
 ## Features
 
 - Responsive navigation bar across all pages
